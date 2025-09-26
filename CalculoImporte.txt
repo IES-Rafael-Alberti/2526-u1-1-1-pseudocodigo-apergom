@@ -1,8 +1,0 @@
-Inicio
-	Escribe "¿Cuántas horas dura su servicio?"
-	Lee "horas"
-	Escribe "¿Cuál es su coste por hora?"
-	Lee "coste"
-	Multiplica horas por coste = importe
-	Escribe "El importe es de + importe"
-Fin

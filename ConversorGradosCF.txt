@@ -1,6 +1,0 @@
-Inicio
-	Escribe "¿Qué temperatura desea convertir de Celsius a Fahrenheit?"
-	Lee "temperaturaC"
-	Opera "temperaturaF" = "temperaturaC" * 9 / 5 + 32
-	Escribe "La temperatura es de,  + temperaturaF, grados F."
-Fin

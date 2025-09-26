@@ -1,9 +1,0 @@
-Inicio 
-	
-	Escribe "¿Cuál es el precio de su compra?"
-	Lee "precioF"
-	precio = precioF - precioF/10
-	IVApagado = precioF - precio
-	Escribe "El precio de su producto sin IVA es de +precio y el IVA pagado es de +IVApagado"
-
-Fin

@@ -1,8 +1,0 @@
-Inicio
-	Escribe "Inserte el precio de su producto"
-	Lee precio
-	Escribe "¿De qué porcentaje es el IVA?"
-	Lee IVA
-	Opera precioIVA= precio + (precio * IVA)/100
-	Escribe "El precio final es de + precioIVA"
-Fin

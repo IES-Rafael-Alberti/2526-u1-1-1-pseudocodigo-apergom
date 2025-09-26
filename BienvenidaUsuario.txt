@@ -1,7 +1,0 @@
-Inicio
-
-	Escribe "Hola, ¿cómo se llama?"
-	Lee nombre 
-	Escribe "Buenas + nombre"
-
-Fin
